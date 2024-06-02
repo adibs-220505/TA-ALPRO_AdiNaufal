@@ -1,0 +1,8 @@
+Aplikasi Email
+Deskripsi: Aplikasi digunakan untuk pengolahan data pengiriman email. Para pengguna aplikasi adalah pemilik email dan admin.
+Spesifikasi:
+a. Pengguna bisa melakukan registrasi untuk mendapatkan akun email. (v)
+b. Admin bisa melakukan persetujuan/penolakan untuk registrasi pengguna. (v)
+c. Pengguna bisa mengirim email kepada pengguna lain. (v)
+d. Pengguna lain bisa membaca email yang masuk, memberi balasan, dan menghapus. (v)
+e. Pengguna bisa mencetak daftar email yang masuk. (v)
