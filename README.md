@@ -1,4 +1,4 @@
-# TA-ALPRO_AdiNaufal
+# TA-ALPRO_AdiBS_MNaufalK
 Tugas Besar Algoritma Pemrograman: Membuat Aplikasi E-mail menggunakan bahasa Go
 
 Kelompok: Adi Bintang Syahputra (103012300499); Muhammad Naufal Khyashadikrilman (103012300433)
